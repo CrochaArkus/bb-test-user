@@ -1,0 +1,11 @@
+.dropdown-container {
+  position: fixed;
+
+}
+
+.hide {
+  display: none;
+  width: 700px;
+  height: 200px;
+  background: #1b1e2a;
+}

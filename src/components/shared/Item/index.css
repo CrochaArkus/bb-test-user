@@ -1,0 +1,28 @@
+.item-container {
+  margin: 60px;
+}
+
+.item-title {
+  width: fit-content;
+  font-size: 16px;
+  font-weight: bolder;
+  color: #3f3f3f;
+  margin: 20px 0;
+}
+
+.item-button {
+  width: fit-content;
+  background: #699abd;
+  color: white;
+  padding: 5px 20px;
+  font-size: 14px;
+  font-weight: 600;
+  cursor: pointer;
+}
+
+.item-image {
+  height: 180px;
+  width: 110px;
+  padding: 10px 20px;
+  background: #ededed;
+}
